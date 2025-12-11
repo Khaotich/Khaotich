@@ -1,7 +1,15 @@
-# Hi there 👋
+# Hi there! 👋  
 
-### DevOps & SRE Enthusiast | Automation Advocate | Python & C++ Hobbyist
-I’m passionate about building reliable, observable, and automated systems. My focus is on CI/CD pipelines, infrastructure automation, monitoring, and incident response. I enjoy streamlining workflows, preventing problems before they happen, and exploring tools and scripts in Python and C++ to make operations smoother and more efficient. On GitHub, I share experiments, automation scripts, and projects reflecting my journey in DevOps and SRE.
+I’m a **DevOps & SRE enthusiast** passionate about automation, reliability, and making complex systems work smoothly. I focus on CI/CD pipelines, infrastructure automation, monitoring & alerting, and streamlining workflows to reduce toil and improve productivity.  
+
+I explore tools and practices that solve real-world operational challenges, while experimenting with **Python** and **C++** to automate and optimize tasks.  
+
+## 🚀 **What I’m doing:**  
+- Building robust automation scripts and workflows  
+- Improving observability and incident response  
+- Learning and sharing best practices in SRE & DevOps  
+
+## 📌 **Tech I work with:**  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
